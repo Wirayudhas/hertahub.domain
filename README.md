@@ -11,12 +11,13 @@
 - Ardhian Fadli Rabbani 156
 - Rangga ramadhana 155
 
+## Preview
+![preview](/images/41d29467-277c-4bd1-a211-36e0cb0dee6f.jpg)
+![preview](/images/6cda8f78-48f2-4129-8ac0-8550d475c552.jpg)
+![preview](/images/75efb6ce-4323-4719-9ba7-0b554dcfd0ae.jpg)
+![preview](/images/798a9cb3-1a9c-4450-bef4-bd98c49daf1c.jpg)
+![preview](/images/8cbaa148-4243-486d-aff8-7483dcb702fc.jpg)
 
-![preview](/hertahub.domain/images/41d29467-277c-4bd1-a211-36e0cb0dee6f.jpg)
-![preview](/hertahub.domain/images/6cda8f78-48f2-4129-8ac0-8550d475c552.jpg)
-![preview](/hertahub.domain/images/75efb6ce-4323-4719-9ba7-0b554dcfd0ae.jpg)
-![preview](/hertahub.domain/images/798a9cb3-1a9c-4450-bef4-bd98c49daf1c.jpg)
-![preview](/hertahub.domain/images/8cbaa148-4243-486d-aff8-7483dcb702fc.jpg)
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
